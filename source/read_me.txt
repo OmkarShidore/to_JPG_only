@@ -1,0 +1,1 @@
+Paste the images in this folder and go back and run the 'conversion.py'
